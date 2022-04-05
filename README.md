@@ -1,6 +1,6 @@
 # age-friendly-busan
-##고령친화도시, 부산
--http://afc.bswdi.re.kr/Main.do
+## 고령친화도시, 부산
+- http://afc.bswdi.re.kr/Main.do
 
 ## 관련 문헌
 데이터링크
